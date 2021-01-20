@@ -473,7 +473,6 @@ section a /*pour retirer la souligne et laisser en noir les parties cliquable */
 }
 .aPropos
 {	
-	color: red;
 	display: flex;
 	flex-direction: column;
 }
